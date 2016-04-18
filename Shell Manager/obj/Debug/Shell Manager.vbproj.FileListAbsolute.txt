@@ -1,0 +1,9 @@
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\bin\Debug\Shell Manager.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\bin\Debug\Shell Manager.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\bin\Debug\Shell Manager.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\obj\Debug\Shell_Manager.Form1.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\obj\Debug\Shell_Manager.Resources.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\obj\Debug\Shell Manager.vbproj.GenerateResource.Cache
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\obj\Debug\Shell Manager.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\obj\Debug\Shell Manager.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\Shell Manager\Shell Manager\obj\Debug\Shell Manager.pdb

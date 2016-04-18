@@ -1,0 +1,8 @@
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\bin\Debug\server.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\bin\Debug\server.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\bin\Debug\server.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.Resources.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.vbproj.GenerateResource.Cache
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.pdb
